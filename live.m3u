@@ -1,5 +1,5 @@
 #EXTM3U
-http://192.99.149.20:8080/live/internal_stalker/internal_use/3702.ts
+
 #EXTINF:-1,NL: Net5 HD
 http://192.99.149.20:8080/live/internal_stalker/internal_use/3703.ts
 #EXTINF:-1,NL: National Geographic HD
